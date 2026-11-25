@@ -1,0 +1,47 @@
+{
+  "candidate_count": 300,
+  "layout_count": 3,
+  "format_count": 2,
+  "expected_document_count": 1800,
+  "documents_generated": 1800,
+  "failure_count": 0,
+  "failures": [],
+  "metrics": {
+    "one-column-pdf": {
+      "document_count": 300,
+      "average_recall_percent": 100.0,
+      "minimum_recall_percent": 100.0,
+      "maximum_recall_percent": 100.0
+    },
+    "one-column-docx": {
+      "document_count": 300,
+      "average_recall_percent": 100.0,
+      "minimum_recall_percent": 100.0,
+      "maximum_recall_percent": 100.0
+    },
+    "two-column-pdf": {
+      "document_count": 300,
+      "average_recall_percent": 100.0,
+      "minimum_recall_percent": 100.0,
+      "maximum_recall_percent": 100.0
+    },
+    "two-column-docx": {
+      "document_count": 300,
+      "average_recall_percent": 100.0,
+      "minimum_recall_percent": 100.0,
+      "maximum_recall_percent": 100.0
+    },
+    "table-pdf": {
+      "document_count": 300,
+      "average_recall_percent": 100.0,
+      "minimum_recall_percent": 100.0,
+      "maximum_recall_percent": 100.0
+    },
+    "table-docx": {
+      "document_count": 300,
+      "average_recall_percent": 100.0,
+      "minimum_recall_percent": 100.0,
+      "maximum_recall_percent": 100.0
+    }
+  }
+}
