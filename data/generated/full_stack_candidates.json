@@ -1,0 +1,3183 @@
+{
+  "metadata": {
+    "job_id": "full_stack",
+    "job_title": "Full-Stack Developer",
+    "seed": 42,
+    "generation_date": "2026-11-25",
+    "candidate_count": 100,
+    "synthetic": true
+  },
+  "candidates": [
+    {
+      "candidate_id": "full_stack-candidate-001",
+      "name": "Aarav Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Express.js",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Git",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Express.js, JavaScript, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 78.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-002",
+      "name": "Mira Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Node.js",
+        "React",
+        "JavaScript",
+        "Express.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Node.js, React, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-003",
+      "name": "Nikhil Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Git",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Express.js",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using PostgreSQL, Git, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-004",
+      "name": "Nikhil Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "React",
+        "Express.js",
+        "Node.js",
+        "PostgreSQL",
+        "JavaScript",
+        "Git",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using React, Express.js, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-005",
+      "name": "Kabir Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "Express.js",
+        "PostgreSQL",
+        "JavaScript",
+        "Node.js",
+        "TypeScript",
+        "AWS",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Git, Express.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-006",
+      "name": "Priya Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "React",
+        "PostgreSQL",
+        "JavaScript",
+        "Git",
+        "Express.js",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using React, PostgreSQL, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-007",
+      "name": "Anika Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using JavaScript, React, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 88.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-008",
+      "name": "Rohan Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "Node.js",
+        "React",
+        "Express.js",
+        "JavaScript",
+        "Docker",
+        "REST APIs",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Git, Node.js, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 88.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-009",
+      "name": "Rohan Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Git",
+        "Node.js",
+        "JavaScript",
+        "Express.js",
+        "AWS",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using PostgreSQL, Git, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-010",
+      "name": "Isha Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "React",
+        "Git",
+        "JavaScript",
+        "Express.js",
+        "Node.js",
+        "AWS",
+        "REST APIs",
+        "Docker",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using React, Git, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-011",
+      "name": "Nikhil Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Git",
+        "Express.js",
+        "AWS",
+        "REST APIs",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using JavaScript, Node.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-012",
+      "name": "Isha Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "React",
+        "Express.js",
+        "PostgreSQL",
+        "Git",
+        "Node.js",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using React, Express.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-013",
+      "name": "Isha Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "JavaScript",
+        "Git",
+        "React",
+        "Express.js",
+        "TypeScript",
+        "Docker",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using PostgreSQL, JavaScript, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-014",
+      "name": "Isha Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Node.js",
+        "React",
+        "Git",
+        "PostgreSQL",
+        "JavaScript",
+        "Express.js",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using Node.js, React, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-015",
+      "name": "Isha Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "Docker",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Git, PostgreSQL, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-016",
+      "name": "Rohan Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Node.js",
+        "PostgreSQL",
+        "Git",
+        "Express.js",
+        "React",
+        "JavaScript",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Node.js, PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-017",
+      "name": "Aarav Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Express.js",
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Git",
+        "PostgreSQL",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Express.js, React, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-018",
+      "name": "Isha Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Node.js",
+        "React",
+        "JavaScript",
+        "AWS",
+        "TypeScript",
+        "Docker",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Git, PostgreSQL, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-019",
+      "name": "Dev Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "React",
+        "Git",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Docker",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using PostgreSQL, React, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-020",
+      "name": "Kabir Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Git",
+        "Node.js",
+        "PostgreSQL",
+        "Express.js",
+        "Docker",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using React, JavaScript, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-021",
+      "name": "Nikhil Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "Express.js",
+        "PostgreSQL",
+        "React",
+        "Node.js",
+        "Git",
+        "TypeScript",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using JavaScript, Express.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-022",
+      "name": "Mira Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Express.js",
+        "React",
+        "Docker",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 1,
+          "summary": "Fictional experience using Git, JavaScript, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-023",
+      "name": "Isha Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Express.js",
+        "Git",
+        "PostgreSQL",
+        "React",
+        "Node.js",
+        "AWS",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Express.js, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-024",
+      "name": "Isha Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Git",
+        "JavaScript",
+        "Node.js",
+        "React",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using PostgreSQL, Git, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 78.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-025",
+      "name": "Rohan Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Express.js",
+        "React",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using JavaScript, Node.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-026",
+      "name": "Sara Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Node.js",
+        "React",
+        "Express.js",
+        "Git",
+        "JavaScript",
+        "Docker",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using PostgreSQL, Node.js, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-027",
+      "name": "Rohan Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "React",
+        "Git",
+        "JavaScript",
+        "Express.js",
+        "Node.js",
+        "Docker",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using PostgreSQL, React, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-028",
+      "name": "Rohan Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Git",
+        "React",
+        "PostgreSQL",
+        "REST APIs",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using JavaScript, Node.js, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-029",
+      "name": "Kabir Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using React, JavaScript, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-030",
+      "name": "Nikhil Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Node.js",
+        "Git",
+        "Express.js",
+        "PostgreSQL",
+        "JavaScript",
+        "React",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Node.js, Git, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-031",
+      "name": "Priya Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "Node.js",
+        "PostgreSQL",
+        "Git",
+        "React",
+        "Express.js",
+        "Docker",
+        "AWS",
+        "TypeScript",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Node.js, PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 83.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-032",
+      "name": "Rohan Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "Git",
+        "Node.js",
+        "React",
+        "Express.js",
+        "PostgreSQL",
+        "TypeScript",
+        "REST APIs",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using JavaScript, Git, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-033",
+      "name": "Dev Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "JavaScript",
+        "PostgreSQL",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Git",
+        "Docker",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 3,
+          "summary": "Fictional experience using JavaScript, PostgreSQL, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-034",
+      "name": "Sara Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "JavaScript",
+        "React",
+        "Git",
+        "Node.js",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 1,
+          "summary": "Fictional experience using PostgreSQL, JavaScript, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 78.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-035",
+      "name": "Nikhil Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Node.js",
+        "JavaScript",
+        "Git",
+        "React",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Node.js, JavaScript, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 61.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-036",
+      "name": "Priya Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Git",
+        "JavaScript",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Node.js, Express.js, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 68.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-037",
+      "name": "Aarav Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "JavaScript",
+        "Git",
+        "React",
+        "PostgreSQL",
+        "TypeScript",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using JavaScript, Git, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 56.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-038",
+      "name": "Sara Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Express.js",
+        "Node.js",
+        "Git",
+        "PostgreSQL",
+        "React",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Express.js, Node.js, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 63.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-039",
+      "name": "Isha Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "Express.js",
+        "PostgreSQL",
+        "JavaScript",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Git, Express.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 51.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-040",
+      "name": "Nikhil Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "React",
+        "Express.js",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Git, React, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-041",
+      "name": "Isha Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "JavaScript",
+        "PostgreSQL",
+        "Git",
+        "Node.js",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using JavaScript, PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 56.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-042",
+      "name": "Mira Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Git, PostgreSQL, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 50.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-043",
+      "name": "Aarav Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Node.js",
+        "Git",
+        "PostgreSQL",
+        "Express.js",
+        "React",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using Node.js, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 63.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-044",
+      "name": "Priya Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "JavaScript",
+        "Express.js",
+        "React",
+        "Node.js",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using JavaScript, Express.js, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 56.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-045",
+      "name": "Isha Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Express.js",
+        "Git",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Express.js, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-046",
+      "name": "Priya Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Node.js",
+        "JavaScript",
+        "Express.js",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Node.js, JavaScript, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-047",
+      "name": "Anika Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Express.js",
+        "Git",
+        "PostgreSQL",
+        "JavaScript",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Express.js, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 61.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-048",
+      "name": "Sara Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Git, PostgreSQL, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 68.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-049",
+      "name": "Dev Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "JavaScript",
+        "Express.js",
+        "Node.js",
+        "React",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using PostgreSQL, JavaScript, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 63.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-050",
+      "name": "Sara Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Express.js",
+        "Node.js",
+        "React",
+        "Docker",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Git, PostgreSQL, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-051",
+      "name": "Anika Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "Git",
+        "Express.js",
+        "JavaScript",
+        "React",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using PostgreSQL, Git, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 63.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-052",
+      "name": "Aarav Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Node.js",
+        "JavaScript",
+        "React",
+        "Express.js",
+        "Git",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Node.js, JavaScript, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-053",
+      "name": "Priya Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Node.js",
+        "JavaScript",
+        "Git",
+        "PostgreSQL",
+        "Express.js",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Node.js, JavaScript, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 68.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-054",
+      "name": "Kabir Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "JavaScript",
+        "Git",
+        "React",
+        "PostgreSQL",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using JavaScript, Git, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 51.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-055",
+      "name": "Isha Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "Git",
+        "Node.js",
+        "React",
+        "JavaScript",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using PostgreSQL, Git, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 68.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-056",
+      "name": "Anika Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Express.js",
+        "PostgreSQL",
+        "Node.js",
+        "React",
+        "Docker",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Express.js, PostgreSQL, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 61.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-057",
+      "name": "Nikhil Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "JavaScript",
+        "Express.js",
+        "React",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using JavaScript, Express.js, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-058",
+      "name": "Priya Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Express.js",
+        "React",
+        "JavaScript",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 3,
+          "summary": "Fictional experience using Express.js, React, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 50.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-059",
+      "name": "Priya Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "JavaScript",
+        "Express.js",
+        "Git",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using JavaScript, Express.js, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-060",
+      "name": "Dev Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Express.js",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Express.js, React, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 51.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-061",
+      "name": "Priya Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Git",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using React, JavaScript, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 50.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-062",
+      "name": "Aarav Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using React, Node.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-063",
+      "name": "Sara Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "AWS",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using PostgreSQL, JavaScript, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 61.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-064",
+      "name": "Sara Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Git, PostgreSQL, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 50.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-065",
+      "name": "Kabir Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "JavaScript",
+        "PostgreSQL",
+        "Express.js",
+        "React",
+        "REST APIs",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Git, JavaScript, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 73.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-066",
+      "name": "Dev Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Git, React, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 51.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-067",
+      "name": "Isha Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "Express.js",
+        "JavaScript",
+        "React",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Git, Express.js, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 56.67
+    },
+    {
+      "candidate_id": "full_stack-candidate-068",
+      "name": "Rohan Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "React",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Git, React, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-069",
+      "name": "Aarav Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using JavaScript, React, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-070",
+      "name": "Anika Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "Node.js",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using React, Node.js, AWS."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-071",
+      "name": "Sara Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using React, JavaScript, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-072",
+      "name": "Isha Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Git, PostgreSQL, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-073",
+      "name": "Isha Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Express.js",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using Express.js, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 23.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-074",
+      "name": "Sara Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Express.js",
+        "Git",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using Express.js, Git, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 35.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-075",
+      "name": "Priya Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using React, PostgreSQL, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 35.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-076",
+      "name": "Anika Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Node.js",
+        "Git",
+        "React",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Node.js, Git, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-077",
+      "name": "Anika Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "JavaScript",
+        "Express.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using JavaScript, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 28.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-078",
+      "name": "Mira Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "JavaScript",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using React, JavaScript, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-079",
+      "name": "Anika Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "React"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using PostgreSQL, React."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 23.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-080",
+      "name": "Anika Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "Express.js",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Git, Express.js, TypeScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-081",
+      "name": "Dev Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Express.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Git, PostgreSQL, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-082",
+      "name": "Aarav Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Node.js",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Node.js, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 23.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-083",
+      "name": "Mira Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "JavaScript",
+        "React",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using JavaScript, React, TypeScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-084",
+      "name": "Kabir Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "Node.js",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Git, Node.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-085",
+      "name": "Aarav Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "JavaScript",
+        "PostgreSQL",
+        "Node.js",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using JavaScript, PostgreSQL, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-086",
+      "name": "Anika Singh",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "React",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Git, React, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-087",
+      "name": "Mira Iyer",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "React",
+        "JavaScript",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using Git, React, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-088",
+      "name": "Sara Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Express.js",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Express.js, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 23.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-089",
+      "name": "Rohan Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "React",
+        "Node.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using Git, React, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-090",
+      "name": "Sara Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "Express.js",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using React, Express.js, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 35.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-091",
+      "name": "Rohan Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "Express.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using React, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 28.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-092",
+      "name": "Kabir Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Express.js",
+        "React",
+        "Git",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Express.js, React, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 45.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-093",
+      "name": "Dev Shah",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "PostgreSQL",
+        "JavaScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using React, PostgreSQL, JavaScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Volunteer Scheduling App",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 35.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-094",
+      "name": "Anika Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "JavaScript",
+        "Git",
+        "Express.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using JavaScript, Git, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-095",
+      "name": "Isha Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Express.js",
+        "JavaScript",
+        "Node.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Express.js, JavaScript, Node.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Book Exchange Portal",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-096",
+      "name": "Dev Rao",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "JavaScript",
+        "Git",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using JavaScript, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 35.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-097",
+      "name": "Priya Patel",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "Express.js",
+        "Git"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using React, Express.js, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-098",
+      "name": "Isha Mehta",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "Node.js",
+        "TypeScript"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using PostgreSQL, Node.js, TypeScript."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.33
+    },
+    {
+      "candidate_id": "full_stack-candidate-099",
+      "name": "Aarav Kapoor",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "React",
+        "Git",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using React, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Project Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 35.0
+    },
+    {
+      "candidate_id": "full_stack-candidate-100",
+      "name": "Anika Verma",
+      "job_id": "full_stack",
+      "job_title": "Full-Stack Developer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Express.js"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Full-Stack Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Git, PostgreSQL, Express.js."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Community Board",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 40.0
+    }
+  ]
+}

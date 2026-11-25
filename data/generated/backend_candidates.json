@@ -1,0 +1,3090 @@
+{
+  "metadata": {
+    "job_id": "backend",
+    "job_title": "Backend Software Engineer",
+    "seed": 42,
+    "generation_date": "2026-11-25",
+    "candidate_count": 100,
+    "synthetic": true
+  },
+  "candidates": [
+    {
+      "candidate_id": "backend-candidate-001",
+      "name": "Aarav Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "REST APIs",
+        "Java",
+        "Git",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using PostgreSQL, REST APIs, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "backend-candidate-002",
+      "name": "Mira Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using REST APIs, Python, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-003",
+      "name": "Nikhil Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Git, REST APIs, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "backend-candidate-004",
+      "name": "Nikhil Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "PostgreSQL",
+        "REST APIs",
+        "Git",
+        "Java",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Python, PostgreSQL, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "backend-candidate-005",
+      "name": "Priya Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "Java",
+        "PostgreSQL",
+        "REST APIs",
+        "Kubernetes",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 3,
+          "summary": "Fictional experience using Git, Java, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-006",
+      "name": "Priya Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "REST APIs",
+        "Java",
+        "Redis",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using Git, PostgreSQL, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "backend-candidate-007",
+      "name": "Rohan Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Java",
+        "Git",
+        "PostgreSQL",
+        "REST APIs",
+        "Redis",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Java, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "backend-candidate-008",
+      "name": "Anika Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "Python",
+        "Java",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Git, REST APIs, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-009",
+      "name": "Rohan Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "Git",
+        "Java",
+        "PostgreSQL",
+        "Kubernetes",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, Git, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-010",
+      "name": "Aarav Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Java",
+        "Python",
+        "REST APIs",
+        "Kubernetes",
+        "Redis",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using PostgreSQL, Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-011",
+      "name": "Rohan Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Git",
+        "Python",
+        "Docker",
+        "Redis",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 86.0
+    },
+    {
+      "candidate_id": "backend-candidate-012",
+      "name": "Sara Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "REST APIs",
+        "Java",
+        "Git",
+        "PostgreSQL",
+        "Redis",
+        "Kubernetes",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Python, REST APIs, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "backend-candidate-013",
+      "name": "Priya Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "Git",
+        "PostgreSQL",
+        "Java",
+        "AWS",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-014",
+      "name": "Priya Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "Java",
+        "Python",
+        "PostgreSQL",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Git, REST APIs, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "backend-candidate-015",
+      "name": "Kabir Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "REST APIs",
+        "Git",
+        "Python",
+        "Redis",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using PostgreSQL, REST APIs, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-016",
+      "name": "Isha Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "REST APIs",
+        "PostgreSQL",
+        "Git",
+        "Java",
+        "Docker",
+        "Redis",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Python, REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "backend-candidate-017",
+      "name": "Isha Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Java",
+        "Git",
+        "Python",
+        "PostgreSQL",
+        "REST APIs",
+        "AWS",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Java, Git, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "backend-candidate-018",
+      "name": "Anika Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "Java",
+        "REST APIs",
+        "PostgreSQL",
+        "Git",
+        "AWS",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Python, Java, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "backend-candidate-019",
+      "name": "Isha Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "PostgreSQL",
+        "REST APIs",
+        "Java",
+        "Git",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Python, PostgreSQL, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "backend-candidate-020",
+      "name": "Rohan Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "Git",
+        "Java",
+        "REST APIs",
+        "PostgreSQL",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Python, Git, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "backend-candidate-021",
+      "name": "Rohan Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Java",
+        "Git",
+        "REST APIs",
+        "Docker",
+        "AWS",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using PostgreSQL, Java, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "backend-candidate-022",
+      "name": "Kabir Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "PostgreSQL",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Git, REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "backend-candidate-023",
+      "name": "Priya Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "Python",
+        "PostgreSQL",
+        "Java",
+        "Docker",
+        "Kubernetes",
+        "Redis",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Git, Python, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 86.0
+    },
+    {
+      "candidate_id": "backend-candidate-024",
+      "name": "Mira Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Python",
+        "Java",
+        "AWS",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-025",
+      "name": "Aarav Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Python",
+        "Java",
+        "Git",
+        "PostgreSQL",
+        "Kubernetes",
+        "Redis",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Python, Java, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-026",
+      "name": "Isha Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Java",
+        "Git",
+        "Python",
+        "REST APIs",
+        "Redis",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using PostgreSQL, Java, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "backend-candidate-027",
+      "name": "Rohan Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Java",
+        "REST APIs",
+        "Git",
+        "PostgreSQL",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Java, REST APIs, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-028",
+      "name": "Sara Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "PostgreSQL",
+        "Python",
+        "REST APIs",
+        "Git",
+        "Java",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using PostgreSQL, Python, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "backend-candidate-029",
+      "name": "Anika Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "PostgreSQL",
+        "Python",
+        "Java",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Git, REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "backend-candidate-030",
+      "name": "Nikhil Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Java",
+        "Python",
+        "REST APIs",
+        "AWS",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Git, PostgreSQL, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "backend-candidate-031",
+      "name": "Kabir Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "Java",
+        "Python",
+        "Git",
+        "AWS",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using REST APIs, Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-032",
+      "name": "Nikhil Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "PostgreSQL",
+        "Java",
+        "Python",
+        "AWS",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Git, REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "backend-candidate-033",
+      "name": "Rohan Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "REST APIs",
+        "Git",
+        "PostgreSQL",
+        "Java",
+        "Python",
+        "Redis",
+        "Kubernetes",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using REST APIs, Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "backend-candidate-034",
+      "name": "Kabir Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "strong",
+      "skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Java, Python, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "backend-candidate-035",
+      "name": "Rohan Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Git, Python, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-036",
+      "name": "Aarav Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "REST APIs",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using PostgreSQL, REST APIs, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-037",
+      "name": "Isha Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "Python",
+        "Java",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using Git, REST APIs, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-038",
+      "name": "Nikhil Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "Java",
+        "Redis",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using REST APIs, Java, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "backend-candidate-039",
+      "name": "Kabir Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "Git",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using Java, Git, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "backend-candidate-040",
+      "name": "Sara Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "REST APIs",
+        "Java",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Git, PostgreSQL, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-041",
+      "name": "Sara Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "Java",
+        "Python",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Git, Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 47.0
+    },
+    {
+      "candidate_id": "backend-candidate-042",
+      "name": "Rohan Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Java",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 47.0
+    },
+    {
+      "candidate_id": "backend-candidate-043",
+      "name": "Nikhil Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "Python",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using REST APIs, Python, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-044",
+      "name": "Priya Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "Java",
+        "Python",
+        "REST APIs",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Git, Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-045",
+      "name": "Rohan Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "REST APIs",
+        "Git",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Java, REST APIs, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "backend-candidate-046",
+      "name": "Kabir Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "REST APIs",
+        "Python",
+        "Redis",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Java, PostgreSQL, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-047",
+      "name": "Kabir Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "Python",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Java, PostgreSQL, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 57.0
+    },
+    {
+      "candidate_id": "backend-candidate-048",
+      "name": "Isha Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "REST APIs",
+        "Git",
+        "Python",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using PostgreSQL, REST APIs, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-049",
+      "name": "Priya Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "Java",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using REST APIs, Java, Kubernetes."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-050",
+      "name": "Priya Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Java",
+        "AWS",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Git, PostgreSQL, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 57.0
+    },
+    {
+      "candidate_id": "backend-candidate-051",
+      "name": "Priya Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-052",
+      "name": "Dev Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "Java",
+        "PostgreSQL",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using REST APIs, Java, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 47.0
+    },
+    {
+      "candidate_id": "backend-candidate-053",
+      "name": "Sara Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "PostgreSQL",
+        "Python",
+        "AWS",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Git, REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-054",
+      "name": "Anika Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "Git",
+        "Java",
+        "Python",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using PostgreSQL, Git, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 61.0
+    },
+    {
+      "candidate_id": "backend-candidate-055",
+      "name": "Aarav Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "Java",
+        "Python",
+        "PostgreSQL",
+        "Kubernetes",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "backend-candidate-056",
+      "name": "Anika Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "Git",
+        "REST APIs",
+        "PostgreSQL",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using Java, Git, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-057",
+      "name": "Priya Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 1,
+          "summary": "Fictional experience using Java, PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "backend-candidate-058",
+      "name": "Sara Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "Python",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using PostgreSQL, Python, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "backend-candidate-059",
+      "name": "Dev Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using Java, REST APIs, AWS."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-060",
+      "name": "Nikhil Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Git",
+        "Java",
+        "Docker",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-061",
+      "name": "Kabir Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Java",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "backend-candidate-062",
+      "name": "Sara Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Java",
+        "Python",
+        "Redis",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using Java, Python, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "backend-candidate-063",
+      "name": "Anika Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Python",
+        "Java",
+        "AWS",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Python, Java, AWS."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "backend-candidate-064",
+      "name": "Mira Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using PostgreSQL, REST APIs, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-065",
+      "name": "Dev Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "Git",
+        "PostgreSQL",
+        "Java",
+        "REST APIs",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Git, PostgreSQL, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 61.0
+    },
+    {
+      "candidate_id": "backend-candidate-066",
+      "name": "Dev Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "PostgreSQL",
+        "Java",
+        "Python",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using PostgreSQL, Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "backend-candidate-067",
+      "name": "Priya Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "medium",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL",
+        "Java",
+        "Python",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using REST APIs, PostgreSQL, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "backend-candidate-068",
+      "name": "Nikhil Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Python",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using Java, Python, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-069",
+      "name": "Kabir Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "Python",
+        "AWS"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using PostgreSQL, Python, AWS."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-070",
+      "name": "Dev Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-071",
+      "name": "Mira Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Git"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Java, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-072",
+      "name": "Mira Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using PostgreSQL, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-073",
+      "name": "Kabir Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Git, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-074",
+      "name": "Rohan Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Python",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Python, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-075",
+      "name": "Isha Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "REST APIs",
+        "Java"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using REST APIs, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-076",
+      "name": "Aarav Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Git, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-077",
+      "name": "Dev Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-078",
+      "name": "Aarav Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "REST APIs",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using REST APIs, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-079",
+      "name": "Rohan Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Python",
+        "Java"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 1,
+          "summary": "Fictional experience using Python, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-080",
+      "name": "Anika Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "REST APIs",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 3,
+          "summary": "Fictional experience using Git, REST APIs, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-081",
+      "name": "Nikhil Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Python",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Python, REST APIs, Docker."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-082",
+      "name": "Anika Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-083",
+      "name": "Aarav Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "Python",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using PostgreSQL, Python, Kubernetes."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-084",
+      "name": "Kabir Rao",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Git, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-085",
+      "name": "Anika Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Java, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-086",
+      "name": "Aarav Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "REST APIs",
+        "Java"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using REST APIs, Java."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-087",
+      "name": "Mira Singh",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Python",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Java, Python, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-088",
+      "name": "Dev Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "Java",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Git, Java, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-089",
+      "name": "Nikhil Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "REST APIs",
+        "Git"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using REST APIs, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-090",
+      "name": "Aarav Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-091",
+      "name": "Isha Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Git",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Git, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-092",
+      "name": "Sara Patel",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "Git"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using PostgreSQL, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-093",
+      "name": "Priya Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Python",
+        "Kubernetes"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Java, Python, Kubernetes."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "backend-candidate-094",
+      "name": "Kabir Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using PostgreSQL, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Inventory API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-095",
+      "name": "Mira Shah",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "REST APIs",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Java, REST APIs, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Task Queue Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-096",
+      "name": "Sara Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "REST APIs"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Java, REST APIs."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-097",
+      "name": "Mira Kapoor",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "REST APIs",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Java, REST APIs, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Order Tracking Service",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-098",
+      "name": "Rohan Iyer",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Java",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Java, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "backend-candidate-099",
+      "name": "Anika Mehta",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "Python",
+        "Git"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Python, Git."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "backend-candidate-100",
+      "name": "Isha Verma",
+      "job_id": "backend",
+      "job_title": "Backend Software Engineer",
+      "tier": "weak",
+      "skills": [
+        "PostgreSQL",
+        "Java",
+        "Redis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Backend Developer",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using PostgreSQL, Java, Redis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Library Checkout API",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    }
+  ]
+}

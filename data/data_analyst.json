@@ -1,0 +1,23 @@
+{
+  "job_title": "Data Analyst",
+  "original_job_description": "We are looking for a data analyst who can turn structured information into clear business insights. The analyst will work with stakeholders to define useful questions, prepare datasets, create repeatable analyses, and present findings in understandable reports. Responsibilities include cleaning data, validating definitions, writing SQL queries, building dashboards, and documenting assumptions. The role requires strong analytical thinking, spreadsheet experience, and familiarity with at least one statistical or data analysis tool. Knowledge of data visualization, Python, experimental measurement, and relational database concepts is beneficial. The ideal candidate communicates uncertainty honestly, checks results carefully, and explains how evidence relates to decisions. Analysts should protect sensitive information and explain limitations clearly when sharing conclusions. This description is an original placeholder for the project and is not based on a completed review of real postings.",
+  "must_have_skills": [
+    "SQL",
+    "Excel",
+    "Data Analysis",
+    "Tableau",
+    "Power BI"
+  ],
+  "nice_to_have_skills": [
+    "Python",
+    "Statistics",
+    "PostgreSQL",
+    "Data Visualization"
+  ],
+  "project_evidence_scoring_criteria": {
+    "0": "No relevant project evidence",
+    "5": "One relevant project with a clear analysis and explanation of findings",
+    "10": "Strong project with cleaned data, validated analysis, useful visualization, and measurable business insight"
+  },
+  "research_status": "Provisional; pending completion and validation of 10 real postings."
+}

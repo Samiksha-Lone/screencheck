@@ -1,0 +1,24 @@
+{
+  "job_title": "Full-Stack Developer",
+  "original_job_description": "We are looking for a full-stack developer who can build complete web features across user interfaces and backend services. The developer will work closely with designers and product team members to translate ideas into accessible, responsive pages and reliable APIs. Responsibilities include writing maintainable JavaScript, integrating databases, testing application behavior, reviewing pull requests, and addressing defects across the stack. The role requires experience with a modern frontend framework, server-side JavaScript, relational data, and source control. Knowledge of cloud hosting, automated deployment, accessibility, and modern testing tools is beneficial. The ideal candidate solves problems methodically, explains tradeoffs, and collaborates well in a small engineering team. This description is an original placeholder for the project and is not based on a completed review of real postings.",
+  "must_have_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "Git"
+  ],
+  "nice_to_have_skills": [
+    "REST APIs",
+    "Docker",
+    "TypeScript",
+    "AWS"
+  ],
+  "project_evidence_scoring_criteria": {
+    "0": "No relevant project evidence",
+    "5": "One relevant project with a clear frontend and backend implementation",
+    "10": "Strong full-stack project with robust implementation detail, testing, deployment, and measurable results"
+  },
+  "research_status": "Provisional; pending completion and validation of 10 real postings."
+}

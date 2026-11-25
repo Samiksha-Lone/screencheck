@@ -1,0 +1,23 @@
+{
+  "job_title": "Backend Software Engineer",
+  "original_job_description": "We are looking for a backend software engineer who can build dependable services and APIs. The engineer will collaborate with product managers and frontend developers to turn requirements into maintainable server-side features. Responsibilities include designing relational database models, implementing secure endpoints, writing automated tests, diagnosing production issues, and improving application performance. The role requires practical experience with at least one modern programming language, version control, and API development. Familiarity with container tools, cloud deployment, message queues, and distributed systems is useful. The ideal candidate communicates clearly, reviews code thoughtfully, and documents technical decisions. Team members also help estimate work, support releases, and respond carefully to operational problems. This description is an original placeholder for the project and is not based on a completed review of real postings.",
+  "must_have_skills": [
+    "Java",
+    "Python",
+    "REST APIs",
+    "PostgreSQL",
+    "Git"
+  ],
+  "nice_to_have_skills": [
+    "Docker",
+    "AWS",
+    "Redis",
+    "Kubernetes"
+  ],
+  "project_evidence_scoring_criteria": {
+    "0": "No relevant project evidence",
+    "5": "One relevant project with a clear implementation and limited detail",
+    "10": "Strong relevant project with implementation detail, measurable results, and linkable evidence"
+  },
+  "research_status": "Provisional; pending completion and validation of 10 real postings."
+}

@@ -1,0 +1,3090 @@
+{
+  "metadata": {
+    "job_id": "data_analyst",
+    "job_title": "Data Analyst",
+    "seed": 42,
+    "generation_date": "2026-11-25",
+    "candidate_count": 100,
+    "synthetic": true
+  },
+  "candidates": [
+    {
+      "candidate_id": "data_analyst-candidate-001",
+      "name": "Aarav Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Tableau",
+        "Data Analysis",
+        "SQL",
+        "Power BI",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Tableau, Data Analysis, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-002",
+      "name": "Mira Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Tableau",
+        "Statistics",
+        "Data Visualization",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using Data Analysis, Excel, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-003",
+      "name": "Nikhil Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Tableau",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Power BI, Data Analysis, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-004",
+      "name": "Nikhil Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "Tableau",
+        "Data Analysis",
+        "Power BI",
+        "SQL",
+        "Statistics",
+        "Data Visualization",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Excel, Tableau, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-005",
+      "name": "Priya Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "SQL",
+        "Tableau",
+        "Data Analysis",
+        "Data Visualization",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 3,
+          "summary": "Fictional experience using Power BI, SQL, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-006",
+      "name": "Priya Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "Excel",
+        "Data Analysis",
+        "SQL",
+        "PostgreSQL",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using Power BI, Tableau, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-007",
+      "name": "Rohan Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Data Analysis",
+        "PostgreSQL",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using SQL, Power BI, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-008",
+      "name": "Anika Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Power BI, Data Analysis, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-009",
+      "name": "Rohan Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "Power BI",
+        "SQL",
+        "Tableau",
+        "Data Visualization",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, Power BI, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-010",
+      "name": "Aarav Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Tableau",
+        "SQL",
+        "Excel",
+        "Data Analysis",
+        "Data Visualization",
+        "PostgreSQL",
+        "Statistics",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using Tableau, SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-011",
+      "name": "Rohan Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "Power BI",
+        "Excel",
+        "Python",
+        "PostgreSQL",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using Data Analysis, Tableau, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 86.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-012",
+      "name": "Sara Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "Data Analysis",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "PostgreSQL",
+        "Data Visualization",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Excel, Data Analysis, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-013",
+      "name": "Priya Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "Power BI",
+        "Tableau",
+        "SQL",
+        "Statistics",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, Power BI, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-014",
+      "name": "Priya Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Tableau",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Power BI, Data Analysis, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-015",
+      "name": "Kabir Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Tableau",
+        "Data Analysis",
+        "Power BI",
+        "Excel",
+        "PostgreSQL",
+        "Statistics",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Tableau, Data Analysis, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-016",
+      "name": "Isha Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "Data Analysis",
+        "Tableau",
+        "Power BI",
+        "SQL",
+        "Python",
+        "PostgreSQL",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Excel, Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-017",
+      "name": "Isha Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Excel",
+        "Tableau",
+        "Data Analysis",
+        "Statistics",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using SQL, Power BI, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-018",
+      "name": "Anika Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Data Analysis",
+        "Tableau",
+        "Power BI",
+        "Statistics",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Excel, SQL, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-019",
+      "name": "Isha Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "Tableau",
+        "Data Analysis",
+        "SQL",
+        "Power BI",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Excel, Tableau, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-020",
+      "name": "Rohan Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "Power BI",
+        "SQL",
+        "Data Analysis",
+        "Tableau",
+        "Statistics",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using Excel, Power BI, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-021",
+      "name": "Rohan Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Tableau",
+        "SQL",
+        "Power BI",
+        "Data Analysis",
+        "Python",
+        "Statistics",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Tableau, SQL, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-022",
+      "name": "Kabir Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Tableau",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Power BI, Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 76.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-023",
+      "name": "Priya Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Tableau",
+        "SQL",
+        "Python",
+        "Data Visualization",
+        "PostgreSQL",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Power BI, Excel, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 86.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-024",
+      "name": "Mira Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "Excel",
+        "SQL",
+        "Statistics",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, Tableau, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-025",
+      "name": "Aarav Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Data Visualization",
+        "PostgreSQL",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Excel, SQL, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-026",
+      "name": "Isha Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Tableau",
+        "SQL",
+        "Power BI",
+        "Excel",
+        "Data Analysis",
+        "PostgreSQL",
+        "Statistics",
+        "Python",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Tableau, SQL, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-027",
+      "name": "Rohan Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "Power BI",
+        "Tableau",
+        "Data Visualization",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using SQL, Data Analysis, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-028",
+      "name": "Sara Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Tableau",
+        "Excel",
+        "Data Analysis",
+        "Power BI",
+        "SQL",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using Tableau, Excel, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-029",
+      "name": "Anika Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Tableau",
+        "Excel",
+        "SQL",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Power BI, Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-030",
+      "name": "Nikhil Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "SQL",
+        "Excel",
+        "Data Analysis",
+        "Statistics",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Power BI, Tableau, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 95.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-031",
+      "name": "Kabir Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Statistics",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Data Analysis, SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-032",
+      "name": "Nikhil Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Tableau",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Power BI, Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 85.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-033",
+      "name": "Rohan Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "Data Analysis",
+        "Power BI",
+        "Tableau",
+        "SQL",
+        "Excel",
+        "PostgreSQL",
+        "Data Visualization",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Data Analysis, Power BI, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 90.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-034",
+      "name": "Kabir Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "strong",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Data Analysis",
+        "Power BI",
+        "Python",
+        "Data Visualization",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using SQL, Excel, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Documented implementation, tests, deployment details, and measured outcomes."
+        }
+      ],
+      "project_evidence": 10,
+      "true_fit": 81.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-035",
+      "name": "Rohan Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Tableau",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Power BI, Excel, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-036",
+      "name": "Aarav Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Tableau",
+        "Data Analysis",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using Tableau, Data Analysis, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-037",
+      "name": "Isha Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using Power BI, Data Analysis, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-038",
+      "name": "Nikhil Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "SQL",
+        "PostgreSQL",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Data Analysis, SQL, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-039",
+      "name": "Kabir Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Python",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 7,
+          "summary": "Fictional experience using SQL, Power BI, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-040",
+      "name": "Sara Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "Data Analysis",
+        "SQL",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Power BI, Tableau, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-041",
+      "name": "Sara Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "SQL",
+        "Excel",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Power BI, SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 47.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-042",
+      "name": "Rohan Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "SQL",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Data Analysis, Tableau, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 47.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-043",
+      "name": "Nikhil Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "Excel",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Data Analysis, Excel, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-044",
+      "name": "Priya Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "SQL",
+        "Excel",
+        "Data Analysis",
+        "Data Visualization",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Power BI, SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-045",
+      "name": "Rohan Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "Power BI",
+        "Python",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using SQL, Data Analysis, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-046",
+      "name": "Kabir Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Data Analysis",
+        "Excel",
+        "PostgreSQL",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using SQL, Tableau, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-047",
+      "name": "Kabir Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Excel",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using SQL, Tableau, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 57.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-048",
+      "name": "Isha Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Tableau",
+        "Data Analysis",
+        "Power BI",
+        "Excel",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Tableau, Data Analysis, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-049",
+      "name": "Priya Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "SQL",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Data Analysis, SQL, Data Visualization."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-050",
+      "name": "Priya Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "SQL",
+        "Statistics",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Power BI, Tableau, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 57.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-051",
+      "name": "Priya Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Data Analysis, Tableau, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-052",
+      "name": "Dev Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "SQL",
+        "Tableau",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Data Analysis, SQL, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 47.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-053",
+      "name": "Sara Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "Tableau",
+        "Excel",
+        "Statistics",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Power BI, Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-054",
+      "name": "Anika Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Tableau",
+        "Power BI",
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Tableau, Power BI, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 61.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-055",
+      "name": "Aarav Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Tableau",
+        "Data Visualization",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 71.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-056",
+      "name": "Anika Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Data Analysis",
+        "Tableau",
+        "Data Visualization",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 8,
+          "summary": "Fictional experience using SQL, Power BI, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-057",
+      "name": "Priya Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "Python",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 1,
+          "summary": "Fictional experience using SQL, Tableau, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-058",
+      "name": "Sara Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Tableau",
+        "Excel",
+        "Data Analysis",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Tableau, Excel, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-059",
+      "name": "Dev Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 4,
+          "summary": "Fictional experience using SQL, Data Analysis, Statistics."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-060",
+      "name": "Nikhil Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "Power BI",
+        "SQL",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, Tableau, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-061",
+      "name": "Kabir Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "SQL",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Data Analysis, Tableau, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-062",
+      "name": "Sara Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "SQL",
+        "Excel",
+        "PostgreSQL",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using SQL, Excel, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-063",
+      "name": "Anika Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Statistics",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Excel, SQL, Statistics."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 43.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-064",
+      "name": "Mira Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Tableau",
+        "Data Analysis",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Tableau, Data Analysis, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-065",
+      "name": "Dev Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "SQL",
+        "Data Analysis",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Power BI, Tableau, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 61.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-066",
+      "name": "Dev Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Tableau",
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 3,
+          "summary": "Fictional experience using Tableau, SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 52.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-067",
+      "name": "Priya Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "medium",
+      "skills": [
+        "Data Analysis",
+        "Tableau",
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 1,
+          "summary": "Fictional experience using Data Analysis, Tableau, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 66.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-068",
+      "name": "Nikhil Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 4,
+          "summary": "Fictional experience using SQL, Excel, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-069",
+      "name": "Kabir Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Tableau",
+        "Excel",
+        "Statistics"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Tableau, Excel, Statistics."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-070",
+      "name": "Dev Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "Tableau"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 6,
+          "summary": "Fictional experience using Power BI, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-071",
+      "name": "Mira Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 5,
+          "summary": "Fictional experience using SQL, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-072",
+      "name": "Mira Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Tableau",
+        "Excel"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 8,
+          "summary": "Fictional experience using Tableau, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-073",
+      "name": "Kabir Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "Excel"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Power BI, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-074",
+      "name": "Rohan Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Excel",
+        "Data Analysis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Excel, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-075",
+      "name": "Isha Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Data Analysis",
+        "SQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 8,
+          "summary": "Fictional experience using Data Analysis, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-076",
+      "name": "Aarav Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "Tableau"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 1,
+          "summary": "Fictional experience using Power BI, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-077",
+      "name": "Dev Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Data Analysis",
+        "Tableau"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-078",
+      "name": "Aarav Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Data Analysis",
+        "Tableau"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Data Analysis, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-079",
+      "name": "Rohan Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Excel",
+        "SQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 1,
+          "summary": "Fictional experience using Excel, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-080",
+      "name": "Anika Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "Data Analysis",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 3,
+          "summary": "Fictional experience using Power BI, Data Analysis, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-081",
+      "name": "Nikhil Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Excel",
+        "Data Analysis",
+        "Python"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Excel, Data Analysis, Python."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-082",
+      "name": "Anika Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Excel"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-083",
+      "name": "Aarav Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Tableau",
+        "Excel",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using Tableau, Excel, Data Visualization."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-084",
+      "name": "Kabir Rao",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "Data Analysis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Power BI, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-085",
+      "name": "Anika Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Tableau"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 7,
+          "summary": "Fictional experience using SQL, Tableau."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-086",
+      "name": "Aarav Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Data Analysis",
+        "SQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using Data Analysis, SQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-087",
+      "name": "Mira Singh",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Excel",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 2,
+          "summary": "Fictional experience using SQL, Excel, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-088",
+      "name": "Dev Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "SQL",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 4,
+          "summary": "Fictional experience using Power BI, SQL, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-089",
+      "name": "Nikhil Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Data Analysis",
+        "Power BI"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Learning Lab",
+          "years": 2,
+          "summary": "Fictional experience using Data Analysis, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-090",
+      "name": "Aarav Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Excel"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-091",
+      "name": "Isha Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Power BI",
+        "Data Analysis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 6,
+          "summary": "Fictional experience using Power BI, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-092",
+      "name": "Sara Patel",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Tableau",
+        "Power BI"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using Tableau, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-093",
+      "name": "Priya Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Data Visualization"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using SQL, Excel, Data Visualization."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 38.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-094",
+      "name": "Kabir Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Tableau",
+        "Data Analysis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Tableau, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Retail Sales Analysis",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-095",
+      "name": "Mira Shah",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 2,
+          "summary": "Fictional experience using SQL, Data Analysis, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Student Enrollment Dashboard",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-096",
+      "name": "Sara Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Data Analysis"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using SQL, Data Analysis."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-097",
+      "name": "Mira Kapoor",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Data Analysis",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 3,
+          "summary": "Fictional experience using SQL, Data Analysis, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Public Transit Usage Report",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-098",
+      "name": "Rohan Iyer",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "SQL",
+        "Excel"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Digital Studio",
+          "years": 7,
+          "summary": "Fictional experience using SQL, Excel."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Clear implementation and a short written summary of the approach."
+        }
+      ],
+      "project_evidence": 5,
+      "true_fit": 33.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-099",
+      "name": "Anika Mehta",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Excel",
+        "Power BI"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 5,
+          "summary": "Fictional experience using Excel, Power BI."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 28.0
+    },
+    {
+      "candidate_id": "data_analyst-candidate-100",
+      "name": "Isha Verma",
+      "job_id": "data_analyst",
+      "job_title": "Data Analyst",
+      "tier": "weak",
+      "skills": [
+        "Tableau",
+        "SQL",
+        "PostgreSQL"
+      ],
+      "experience": [
+        {
+          "title": "Fictional Data Analyst",
+          "organization": "Fictional Technology Group",
+          "years": 6,
+          "summary": "Fictional experience using Tableau, SQL, PostgreSQL."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Customer Support Trends",
+          "description": "A fictional synthetic project used for research testing.",
+          "details": "Listed only as an introductory learning project without supporting details."
+        }
+      ],
+      "project_evidence": 0,
+      "true_fit": 33.0
+    }
+  ]
+}
