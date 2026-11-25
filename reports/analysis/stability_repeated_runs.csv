@@ -1,0 +1,7 @@
+bootstrap_replicates,bootstrap_seed,exactly_stable_candidate_percent,icc_2_1_absolute_agreement,mean_candidate_range,mean_within_candidate_sd,mean_within_candidate_sd_ci_95,median_within_candidate_sd,n_expected,n_included,n_missing,pairwise_run_correlations_n,pairwise_run_spearman_mean,pairwise_run_spearman_min,pairwise_run_top20_overlap_mean,role,runs_per_candidate,screener_id
+10000,3611235344,100.0,1.0,0.0,0.0,"[0.0, 0.0]",0.0,100,100,0,10,1.0,1.0,1.0,backend,5,S1
+10000,1845042487,100.0,1.0,0.0,0.0,"[0.0, 0.0]",0.0,100,100,0,10,1.0,1.0,1.0,full_stack,5,S1
+10000,135290164,100.0,1.0,0.0,0.0,"[0.0, 0.0]",0.0,100,100,0,10,1.0,1.0,1.0,data_analyst,5,S1
+10000,697577028,100.0,1.0,0.0,8.142712022651055e-16,"[3.972054645195637e-16, 1.31077803291456e-15]",0.0,100,100,0,10,1.0,1.0,1.0,backend,5,S2
+10000,3550122203,100.0,1.0,0.0,8.738520219430402e-16,"[4.369260109715201e-16, 1.3902191258184725e-15]",0.0,100,100,0,10,0.9999999999999998,0.9999999999999999,1.0,full_stack,5,S2
+10000,1033697450,100.0,1.0,0.0,6.454588798442909e-16,"[2.482534153247273e-16, 1.1121753006547783e-15]",0.0,100,100,0,10,1.0,1.0,1.0,data_analyst,5,S2

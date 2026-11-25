@@ -1,0 +1,13 @@
+bootstrap_replicates,bootstrap_seed,bootstrap_valid_replicates,comparison,holm_family,n,n_expected,n_missing,p_adjusted_holm,p_value,rho,rho_ci_95,role,screener_id,top20_overlap
+10000,1612395373,10000,repeat_mean_to_section_reordering,all_e10_rank_stability_spearman_tests,100,100,0,0.0,0.0,1.0,"[0.9999999999999999, 1.0]",backend,S1,1.0
+10000,2741091009,10000,repeat_mean_to_synonym_rewording,all_e10_rank_stability_spearman_tests,100,100,0,0.0,0.0,1.0,"[0.9999999999999999, 1.0]",backend,S1,1.0
+10000,204778453,10000,repeat_mean_to_section_reordering,all_e10_rank_stability_spearman_tests,100,100,0,0.0,0.0,1.0,"[0.9999999999999999, 1.0]",full_stack,S1,1.0
+10000,2065286535,10000,repeat_mean_to_synonym_rewording,all_e10_rank_stability_spearman_tests,100,100,0,0.0,0.0,1.0,"[0.9999999999999999, 1.0]",full_stack,S1,1.0
+10000,1191187720,10000,repeat_mean_to_section_reordering,all_e10_rank_stability_spearman_tests,100,100,0,0.0,0.0,1.0,"[0.9999999999999999, 1.0]",data_analyst,S1,1.0
+10000,2599038164,10000,repeat_mean_to_synonym_rewording,all_e10_rank_stability_spearman_tests,100,100,0,0.0,0.0,1.0,"[0.9999999999999999, 1.0]",data_analyst,S1,1.0
+10000,3698646131,10000,repeat_mean_to_section_reordering,all_e10_rank_stability_spearman_tests,100,100,0,2.8408397751223956e-36,9.469465917074652e-37,0.8981641087547384,"[0.8476028661939443, 0.9300913277776776]",backend,S2,0.65
+10000,589349963,10000,repeat_mean_to_synonym_rewording,all_e10_rank_stability_spearman_tests,100,100,0,2.396885172984547e-72,4.793770345969094e-73,0.9822530655885697,"[0.9647357836253567, 0.9891210325522236]",backend,S2,0.85
+10000,1903392614,10000,repeat_mean_to_section_reordering,all_e10_rank_stability_spearman_tests,100,100,0,1.2149766568388008e-33,6.074883284194004e-34,0.8829021826005939,"[0.8211471312861589, 0.9211299723312337]",full_stack,S2,0.65
+10000,205070802,10000,repeat_mean_to_synonym_rewording,all_e10_rank_stability_spearman_tests,100,100,0,2.1329058543815388e-75,3.554843090635898e-76,0.9846984698469846,"[0.9704663347646941, 0.9896026620065282]",full_stack,S2,0.75
+10000,3722040757,10000,repeat_mean_to_section_reordering,all_e10_rank_stability_spearman_tests,100,100,0,1.4532919330403957e-25,1.4532919330403957e-25,0.8207345663921835,"[0.7397245923559165, 0.8743051872695143]",data_analyst,S2,0.5
+10000,1863378598,10000,repeat_mean_to_synonym_rewording,all_e10_rank_stability_spearman_tests,100,100,0,2.862127306863596e-48,7.15531826715899e-49,0.9436808612181198,"[0.8999360204207514, 0.966120266016562]",data_analyst,S2,0.65

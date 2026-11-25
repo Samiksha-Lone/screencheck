@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="356" viewBox="0 0 900 356">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="210.0" y="28.0" font-size="17" text-anchor="start" fill="#24313a">Screener association with synthetic True Fit</text>
+<text x="210.0" y="48.0" font-size="11" text-anchor="start" fill="#24313a">Role-stratified Spearman ρ with candidate-bootstrap 95% CI</text>
+<line x1="210.0" y1="54" x2="210.0" y2="308" stroke="#e2e7e9"/>
+<text x="210.0" y="333.0" font-size="10" text-anchor="middle" fill="#24313a">-1.0</text>
+<line x1="365.0" y1="54" x2="365.0" y2="308" stroke="#e2e7e9"/>
+<text x="365.0" y="333.0" font-size="10" text-anchor="middle" fill="#24313a">-0.5</text>
+<line x1="520.0" y1="54" x2="520.0" y2="308" stroke="#e2e7e9"/>
+<text x="520.0" y="333.0" font-size="10" text-anchor="middle" fill="#24313a">0.0</text>
+<line x1="675.0" y1="54" x2="675.0" y2="308" stroke="#e2e7e9"/>
+<text x="675.0" y="333.0" font-size="10" text-anchor="middle" fill="#24313a">0.5</text>
+<line x1="830.0" y1="54" x2="830.0" y2="308" stroke="#e2e7e9"/>
+<text x="830.0" y="333.0" font-size="10" text-anchor="middle" fill="#24313a">1.0</text>
+<text x="200.0" y="66.0" font-size="11" text-anchor="end" fill="#24313a">backend · S1</text>
+<line x1="821.5" y1="62" x2="826.8" y2="62" stroke="#276678" stroke-width="2"/>
+<circle cx="825.0" cy="62" r="4" fill="#d1495b"/>
+<text x="200.0" y="104.0" font-size="11" text-anchor="end" fill="#24313a">backend · S2</text>
+<line x1="732.9" y1="100" x2="777.2" y2="100" stroke="#276678" stroke-width="2"/>
+<circle cx="758.9" cy="100" r="4" fill="#d1495b"/>
+<text x="200.0" y="142.0" font-size="11" text-anchor="end" fill="#24313a">data_analyst · S1</text>
+<line x1="821.5" y1="138" x2="826.7" y2="138" stroke="#276678" stroke-width="2"/>
+<circle cx="825.0" cy="138" r="4" fill="#d1495b"/>
+<text x="200.0" y="180.0" font-size="11" text-anchor="end" fill="#24313a">data_analyst · S2</text>
+<line x1="622.0" y1="176" x2="718.4" y2="176" stroke="#276678" stroke-width="2"/>
+<circle cx="674.1" cy="176" r="4" fill="#d1495b"/>
+<text x="200.0" y="218.0" font-size="11" text-anchor="end" fill="#24313a">full_stack · S1</text>
+<line x1="810.0" y1="214" x2="821.0" y2="214" stroke="#276678" stroke-width="2"/>
+<circle cx="816.9" cy="214" r="4" fill="#d1495b"/>
+<text x="200.0" y="256.0" font-size="11" text-anchor="end" fill="#24313a">full_stack · S2</text>
+<line x1="720.9" y1="252" x2="777.8" y2="252" stroke="#276678" stroke-width="2"/>
+<circle cx="754.4" cy="252" r="4" fill="#d1495b"/>
+</svg>

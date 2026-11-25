@@ -90,13 +90,13 @@ def variant_resume_text(candidate: dict, variant_id: str = "") -> str:
 
 def deterministic_result_id(
     experiment_id: str,
-    base_candidate_id: str,
+    pair_id: str,
     screener_id: str,
     variant_id: str,
     run_number: int,
 ) -> str:
     value = (
-        f"{experiment_id}|{base_candidate_id}|{screener_id}|"
+        f"{experiment_id}|{pair_id}|{screener_id}|"
         f"{variant_id}|{run_number}"
     )
     return hashlib.sha256(value.encode("utf-8")).hexdigest()
@@ -124,7 +124,7 @@ def result_record(
     return {
         "result_id": deterministic_result_id(
             experiment_id,
-            base_candidate_id,
+            pair_id,
             screener_id,
             variant_id,
             run_number,
@@ -396,7 +396,7 @@ class ExperimentRunner:
                         )
                         result_id = deterministic_result_id(
                             experiment_id,
-                            pair["base_candidate_id"],
+                            pair["pair_id"],
                             "S2",
                             variant_id,
                             run_number,

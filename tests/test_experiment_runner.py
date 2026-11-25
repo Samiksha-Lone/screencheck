@@ -82,7 +82,12 @@ def test_result_schema_and_deterministic_id():
          "variant_id", "run_number", "score", "status")
     ).issubset(record)
     assert record["result_id"] == deterministic_result_id(
-        "E1", "base", "S1", "base", 1
+        "E1", "base:E1:test", "S1", "base", 1
+    )
+    assert deterministic_result_id(
+        "E5", "backend-candidate-001:E5:two-column", "S1", "base", 1
+    ) != deterministic_result_id(
+        "E5", "backend-candidate-001:E5:table", "S1", "base", 1
     )
 
 
@@ -107,6 +112,23 @@ def test_honest_improvement_is_isolated():
 
 def test_s2_identical_score_edge_case():
     assert EmbeddingScreener.scale_scores([0.5, 0.5]) == [50.0, 50.0]
+
+
+def test_phase5_e5_layouts_and_missing_two_column_scope():
+    pairs = load_pairs("E5")
+    assert len(pairs) == 600
+    layouts = sorted({pair["twin"]["layout"] for pair in pairs})
+    assert layouts == ["table", "two-column"]
+    two_column = [
+        pair for pair in pairs if pair["twin"]["layout"] == "two-column"
+    ]
+    assert len(two_column) == 300
+    assert len({pair["base_candidate_id"] for pair in two_column}) == 300
+    assert all(
+        pair["base"]["layout"] == "one-column"
+        and pair["twin"]["layout"] == "two-column"
+        for pair in two_column
+    )
 
 
 def test_pilot_runner_s1(tmp_path):
