@@ -15,10 +15,15 @@ private and Git-ignored.
 | `data/private/analysis/e5_two_column_legacy_records_superseded.jsonl` | Preserved historical E5 rows. **Superseded and invalid for layout-effect conclusions:** S1 bypassed layout extraction and S2 similarities were copied from table-layout records. |
 | `data/private/analysis/analysis_dataset_preparation_log.json` | Preserved log for the earlier analysis-data preparation. It records historical paths and the original Phase 6 hash. |
 
-The role-normalized S2 file includes 600 rows from the superseded E5 preparation
-in addition to the 6,000 Phase 6 S2 rows. Analysis uses the normalized S2
-records only when their IDs correspond to non-E5 Phase 6 results. E5 analysis
-uses only `e5_layout_aware_v1.jsonl`.
+The role-normalized S2 file has 6,600 rows. Of its 1,200 rows tagged E5, 600
+match original Phase 6 S2 result IDs and 600 are supplemental rows from the
+superseded E5 repair. The supplemental 600-row count is also the number of
+records in `e5_two_column_legacy_records_superseded.jsonl`; its SHA-256 is
+listed above. The analysis audit's `legacy_e5_rows_excluded_from_e5_analysis`
+field counts all 1,200 E5-tagged rows in the normalized file, not just the
+600 supplemental repair rows. The normalized S2 data are used only for
+non-E5 Phase 6 results whose IDs match; E5 analysis uses only
+`e5_layout_aware_v1.jsonl`.
 
 ## Safe filename organization
 

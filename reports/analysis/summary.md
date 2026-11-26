@@ -11,38 +11,38 @@ This report summarizes controlled experiments on synthetic resumes and in-house 
 
 ## Pooled matched score comparisons
 
-| Comparison | Screener | Format | n / expected | Mean Δ (95% CI) | Median Δ | Spread units | Rank-biserial | Wilcoxon p (Holm) | Sign p |
-|---|---:|---|---:|---:|---:|---:|---:|---:|---:|
-| base_to_name_group_a | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| base_to_name_group_a | S2 | — | 300 / 300 | -3.237 [-4.670, -1.815] | -3.480 | -0.145 | -0.299 | 0.0000 (0.0006) | 0.0002 |
-| base_to_name_group_b | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| base_to_name_group_b | S2 | — | 300 / 300 | -4.639 [-6.254, -3.042] | -3.515 | -0.208 | -0.325 | 0.0000 (0.0001) | 0.0021 |
-| name_group_a_to_group_b | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| name_group_a_to_group_b | S2 | — | 300 / 300 | -1.403 [-3.133, 0.263] | -1.665 | -0.064 | -0.095 | 0.1544 (1.0000) | 0.0150 |
-| base_to_twin | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| base_to_twin | S2 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| base_to_twin | S1 | — | 300 / 300 | 1.208 [0.833, 1.583] | 0.000 | 0.053 | 1.000 | 0.0000 (0.0000) | 0.0000 |
-| base_to_twin | S2 | — | 300 / 300 | 17.093 [16.117, 18.106] | 15.620 | 0.768 | 0.998 | 0.0000 (0.0000) | 0.0000 |
-| base_to_twin | S1 | — | 300 / 300 | 27.274 [25.334, 29.256] | 25.000 | 1.188 | 1.000 | 0.0000 (0.0000) | 0.0000 |
-| base_to_twin | S2 | — | 300 / 300 | 13.641 [12.514, 14.771] | 10.605 | 0.613 | 0.997 | 0.0000 (0.0000) | 0.0000 |
-| base_to_twin | S1 | — | 300 / 300 | 1.208 [0.833, 1.583] | 0.000 | 0.053 | 1.000 | 0.0000 (0.0000) | 0.0000 |
-| base_to_twin | S2 | — | 300 / 300 | 12.275 [11.025, 13.559] | 10.770 | 0.551 | 0.905 | 0.0000 (0.0000) | 0.0000 |
-| one_column_to_two_column | S1 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| one_column_to_two_column | S2 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| one_column_to_table | S1 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| one_column_to_table | S2 | pdf | 300 / 300 | 0.573 [0.521, 0.625] | 0.543 | 0.207 | 0.908 | 0.0000 (0.0000) | 0.0000 |
-| two_column_to_table | S1 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| two_column_to_table | S2 | pdf | 300 / 300 | 0.573 [0.522, 0.625] | 0.543 | 0.207 | 0.908 | 0.0000 (0.0000) | 0.0000 |
-| one_column_to_two_column | S1 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| one_column_to_two_column | S2 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| one_column_to_table | S1 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| one_column_to_table | S2 | docx | 300 / 300 | 0.430 [0.377, 0.484] | 0.472 | 0.155 | 0.667 | 0.0000 (0.0000) | 0.0000 |
-| two_column_to_table | S1 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| two_column_to_table | S2 | docx | 300 / 300 | 0.430 [0.379, 0.484] | 0.472 | 0.155 | 0.667 | 0.0000 (0.0000) | 0.0000 |
-| repeat_mean_to_section_reordering | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| repeat_mean_to_section_reordering | S2 | — | 300 / 300 | -11.500 [-12.835, -10.171] | -13.570 | -0.517 | -0.747 | 0.0000 (0.0000) | 0.0000 |
-| repeat_mean_to_synonym_rewording | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
-| repeat_mean_to_synonym_rewording | S2 | — | 300 / 300 | 1.208 [0.701, 1.708] | 2.165 | 0.054 | 0.355 | 0.0000 (0.0000) | 0.0000 |
+| Experiment | Comparison | Screener | Format | n / expected | Mean Δ (95% CI) | Median Δ | Spread units | Rank-biserial | Wilcoxon p (Holm) | Sign p |
+|---|---|---:|---|---:|---:|---:|---:|---:|---:|---:|
+| E1 | base_to_name_group_a | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E1 | base_to_name_group_a | S2 | — | 300 / 300 | -3.237 [-4.670, -1.815] | -3.480 | -0.145 | -0.299 | 0.0000 (0.0006) | 0.0002 |
+| E1 | base_to_name_group_b | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E1 | base_to_name_group_b | S2 | — | 300 / 300 | -4.639 [-6.254, -3.042] | -3.515 | -0.208 | -0.325 | 0.0000 (0.0001) | 0.0021 |
+| E1 | name_group_a_to_group_b | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E1 | name_group_a_to_group_b | S2 | — | 300 / 300 | -1.403 [-3.133, 0.263] | -1.665 | -0.064 | -0.095 | 0.1544 (1.0000) | 0.0150 |
+| E3_COLLEGE | base_to_twin | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E3_COLLEGE | base_to_twin | S2 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E3_PROJECT | base_to_twin | S1 | — | 300 / 300 | 1.208 [0.833, 1.583] | 0.000 | 0.053 | 1.000 | 0.0000 (0.0000) | 0.0000 |
+| E3_PROJECT | base_to_twin | S2 | — | 300 / 300 | 17.093 [16.117, 18.106] | 15.620 | 0.768 | 0.998 | 0.0000 (0.0000) | 0.0000 |
+| E7 | base_to_twin | S1 | — | 300 / 300 | 27.274 [25.334, 29.256] | 25.000 | 1.188 | 1.000 | 0.0000 (0.0000) | 0.0000 |
+| E7 | base_to_twin | S2 | — | 300 / 300 | 13.641 [12.514, 14.771] | 10.605 | 0.613 | 0.997 | 0.0000 (0.0000) | 0.0000 |
+| E9 | base_to_twin | S1 | — | 300 / 300 | 1.208 [0.833, 1.583] | 0.000 | 0.053 | 1.000 | 0.0000 (0.0000) | 0.0000 |
+| E9 | base_to_twin | S2 | — | 300 / 300 | 12.275 [11.025, 13.559] | 10.770 | 0.551 | 0.905 | 0.0000 (0.0000) | 0.0000 |
+| E5 | one_column_to_two_column | S1 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | one_column_to_two_column | S2 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | one_column_to_table | S1 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | one_column_to_table | S2 | pdf | 300 / 300 | 0.573 [0.521, 0.625] | 0.543 | 0.207 | 0.908 | 0.0000 (0.0000) | 0.0000 |
+| E5 | two_column_to_table | S1 | pdf | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | two_column_to_table | S2 | pdf | 300 / 300 | 0.573 [0.522, 0.625] | 0.543 | 0.207 | 0.908 | 0.0000 (0.0000) | 0.0000 |
+| E5 | one_column_to_two_column | S1 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | one_column_to_two_column | S2 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | one_column_to_table | S1 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | one_column_to_table | S2 | docx | 300 / 300 | 0.430 [0.377, 0.484] | 0.472 | 0.155 | 0.667 | 0.0000 (0.0000) | 0.0000 |
+| E5 | two_column_to_table | S1 | docx | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E5 | two_column_to_table | S2 | docx | 300 / 300 | 0.430 [0.379, 0.484] | 0.472 | 0.155 | 0.667 | 0.0000 (0.0000) | 0.0000 |
+| E10 | repeat_mean_to_section_reordering | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E10 | repeat_mean_to_section_reordering | S2 | — | 300 / 300 | -11.500 [-12.835, -10.171] | -13.570 | -0.517 | -0.747 | 0.0000 (0.0000) | 0.0000 |
+| E10 | repeat_mean_to_synonym_rewording | S1 | — | 300 / 300 | 0.000 [0.000, 0.000] | 0.000 | 0.000 | 0.000 | 1.0000 (1.0000) | 1.0000 |
+| E10 | repeat_mean_to_synonym_rewording | S2 | — | 300 / 300 | 1.208 [0.701, 1.708] | 2.165 | 0.054 | 0.355 | 0.0000 (0.0000) | 0.0000 |
 
 ## Practical score changes
 
@@ -140,3 +140,22 @@ True Fit is a synthetic research proxy, not real-world hiring truth. Pooled corr
 - [E10 repeat variability](figures/e10_repeat_variability.svg)
 - Detailed machine-readable estimates: `analysis_results.json`.
 - Methods, tie policy, thresholds, and limitations: [methodology](methodology.md).
+
+## Individual experiment reports
+
+The experiment-specific research reports provide the design, full paired
+results, role-level screening outcomes, interpretation, limitations, and
+reproducibility details. They complement this aggregate report; they do not
+replace it.
+
+| Experiment | Report |
+|---|---|
+| E1 — Name-coded groups | [Individual report](../experiments/e1-name-coded-groups.md) |
+| E3 — College prestige | [Individual report](../experiments/e3-college-prestige.md) |
+| E3 — Project evidence | [Individual report](../experiments/e3-project-evidence.md) |
+| E5 — Resume layout and file type | [Individual report](../experiments/e5-resume-layout-file-type.md) |
+| E7 — Keyword stuffing | [Individual report](../experiments/e7-keyword-stuffing.md) |
+| E9 — Honest improvements | [Individual report](../experiments/e9-honest-improvements.md) |
+| E10 — Repeated-run stability | [Individual report](../experiments/e10-repeated-run-stability.md) |
+| E10 — Section reordering | [Individual report](../experiments/e10-section-reordering.md) |
+| E10 — Synonym rewriting | [Individual report](../experiments/e10-synonym-rewriting.md) |

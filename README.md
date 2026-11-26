@@ -14,6 +14,7 @@ people.
 - `src/stats/` — paired statistical methods, analysis orchestration, and reports.
 - `data/` — job definitions and generated candidate inputs.
 - `reports/analysis/` — aggregate, reproducible research outputs.
+- `reports/experiments/` — individual reports for each experiment and variant.
 - `data/private/` — ignored experiment results and candidate-level analysis data.
 
 ## Reproduce the analysis
